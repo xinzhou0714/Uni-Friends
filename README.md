@@ -15,10 +15,16 @@
 
 BGA
 
-| 文档名称                               | 状态   |      |
+| 文档名称                               | 状态   | 备注 |
 | -------------------------------------- | ------ | ---- |
 | [Übung-题型整理](BGA-1/UE-Aufgaben.md) | 整理中 |      |
 | Testat-题型整理                        | 计划中 |      |
+| [UE01预习](BGA-1/UE01-Vorbereitung.md) |        |      |
+| [UE02预习](BGA-1/UE02-Vorbereitung.md) |        |      |
+| [UE03预习](BGA-1/UE03-Vorbereitung.md) |        |      |
+| [UE04预习](BGA-1/UE04-Vorbereitung.md) | 整理中 |      |
+| [UE05预习](BGA-1/UE05-Vorbereitung.md) |        |      |
+| [UE06预习](BGA-1/UE06-Vorbereitung.md) |        |      |
 
 
 

@@ -8,10 +8,59 @@
 
 
 
-## Übung0102
+## Übung01_Optik und Beleuchtung 
+
+光学和照明
+
+---
+
+题型一：成像定律(Abbildungsgesetz)
+
+题型二：光圈(Blende)
+
+题型三：光照条件(Beleuchtung )
+
+## Übung02_Ni Vision Assisstant
+
+图像预处理
+
+---
 
 
 
-## Übung0304
+题型一：Look-up-table操作
 
-## Übung0506
+题型二：灰度直方图
+
+## Übung03_Objektsegmentierung  
+
+对象分割
+
+---
+
+
+
+## Übung04_Hough Transformation 
+
+霍夫变换
+
+---
+
+题型1：霍夫变换，给原图，选参数空间的图
+
+题型2：
+
+## Übung05_Rauschen 
+
+噪声
+
+---
+
+
+
+## Übung06_Textureigenschaften  
+
+纹理
+
+---
+
